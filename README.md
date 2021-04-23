@@ -8,7 +8,12 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 <h1>Installation</h1>
 <p> Projemi klonladım</p>
 <br>
-`git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git`
+
+```
+function test() {
+  console.log("İlk git repom");
+}
+```
 
 <h1>Usage</h1>
 <p>Projeyi klonladıktan sonra VS Code programında açtım.</p>
@@ -18,3 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 <h1>License</h1>
 <a href="https://choosealicense.com/licenses/mit/">MIT</a>
+
