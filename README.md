@@ -2,7 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 <p align="center">
-  <img src="C:\Users\memo_\Desktop\repo.png" width="350" title="repopic">
+  <img src="repo.png" width="350" title="repopic">
 </p>
 
 <h1>Installation</h1>
